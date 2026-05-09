@@ -1,52 +1,69 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=180&section=header&text=Masud%20Khan&fontSize=45&fontColor=ffffff&fontAlignY=36&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20BI%20Developer&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Business+Impact+%F0%9F%9A%80;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Built+%E2%82%B934.8M+Revenue+Uplift+with+ML+Models;Mechanical+Engineer+%E2%86%92+Data+Analyst+%F0%9F%94%A5" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=200&section=header&text=Masud%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20BI%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Business+Impact+%F0%9F%9A%80;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Built+%E2%82%B934.8M+Revenue+Uplift+with+ML+Models;Mechanical+Engineer+%E2%86%92+Data+Analyst+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
 ```python
 masud = {
-    "name"       : "Masud Khan",
-    "pronouns"   : "he/him",
-    "location"   : "Bilaspur, Chhattisgarh, India",
-    "education"  : "B.Tech Mechanical Engineering → Data Analytics",
-    "university" : "Guru Ghasidas Vishwavidyalaya (2022-2026) | CGPA: 7.0",
-    "roles"      : ["Data Analyst", "BI Developer", "ML Engineer"],
-    "focus"      : ["BFSI", "Fintech", "Operations Analytics"],
-    "currently"  : "Building AI-powered analytics tools & applying for DA roles",
-    "learning"   : ["Generative AI", "Advanced ML", "Spark/Hadoop Pipelines"],
-    "ask_me"     : ["Python", "SQL", "Power BI", "EDA", "Statistical Modeling"],
-    "fun_fact"   : "Went from thermodynamics to gradient boosting — same math, different story",
-    "website"    : "https://masudkhan.in",
+    "name"        : "Masud Khan",
+    "pronouns"    : "he/him",
+    "location"    : "Bilaspur, Chhattisgarh, India 🇮🇳",
+    "education"   : "B.Tech Mechanical Engineering → Data Analytics",
+    "university"  : "Guru Ghasidas Vishwavidyalaya (2022–2026)  |  CGPA: 7.0",
+    "roles"       : ["Data Analyst", "BI Developer", "ML Engineer"],
+    "focus"       : ["BFSI", "Fintech", "Operations Analytics"],
+    "currently"   : "Building AI-powered analytics tools & applying for DA roles",
+    "learning"    : ["Generative AI", "Advanced ML", "Scalable Data Engineering (Spark/Hadoop)"],
+    "ask_me"      : ["Python", "SQL", "Power BI", "EDA", "Statistical Modeling"],
+    "fun_fact"    : "I went from thermodynamics to gradient boosting — same math, different story 🔥",
+    "website"     : "https://masudkhan.in",
 }
 ```
 
 ---
 
-## Impact at a Glance
+## 🏆 Impact at a Glance
 
-| Metric | Value | Context |
-|--------|-------|---------|
-| Revenue Uplift Projected | **Rs. 34.8M** | NPL Recovery ML Model (NBFC) |
-| Model Performance | **AUC 0.77** | Gradient Boosting — Fraud & Channel Detection |
-| Efficiency Gain | **30% less manual effort** | Automated ETL Pipelines @ Codec Technologies |
-| Problems Solved | **500+ at 95%+ accuracy** | Statistics SME @ Chegg India |
-| Team Led | **50+ members** | GFG Student Chapter, GGV |
-| Stakeholders Served | **10+ via dashboards** | Power BI, Matplotlib, Seaborn |
+<table>
+<tr>
+<td align="center" width="25%">
+<b>₹34.8M</b><br/>
+<sub>Revenue uplift projected<br/>via ML model (NPL Recovery)</sub>
+</td>
+<td align="center" width="25%">
+<b>AUC 0.77</b><br/>
+<sub>Gradient Boosting model<br/>for fraud & channel detection</sub>
+</td>
+<td align="center" width="25%">
+<b>30% less</b><br/>
+<sub>Manual effort via<br/>automated ETL pipelines</sub>
+</td>
+<td align="center" width="25%">
+<b>500+ solved</b><br/>
+<sub>Stats problems at 95%+<br/>accuracy (Chegg India)</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+**Languages & Query**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -81,7 +98,7 @@ masud = {
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel%20Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Tools & Platforms**
+**Dev Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
@@ -95,85 +112,107 @@ masud = {
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### NPL Recovery Strategy &nbsp; `Python` `Pandas` `Scikit-learn` `Gradient Boosting`
-Analyzed **9,000+ NPL accounts** for an NBFC client. Built a Gradient Boosting propensity model (AUC 0.77) to score recovery likelihood and detect **Rs. 15.1M in channel mismatches**. Designed an AI implementation roadmap projecting **Rs. 34.8M total revenue uplift** across three use cases.
-> `#Fintech` `#MachineLearning` `#PredictiveModeling` `#BFSI` `#FraudDetection`
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 📊 NPL Recovery Strategy
+**Python · Pandas · Scikit-learn · Gradient Boosting**
 
-### Job Market Analytics System &nbsp; `Python` `MySQL` `Power BI` `Adzuna API`
-End-to-end analytics pipeline ingesting **500+ job listings** via REST API. Built ETL using Python + Pandas, stored in MySQL, and visualized salary trends, skill demand, and forecasting in interactive Power BI dashboards.
-> `#ETL` `#PowerBI` `#DataPipeline` `#API` `#MarketAnalysis`
+Analyzed **9,000+ NPL accounts** to build a propensity model (AUC 0.77) for an NBFC client. Detected **₹15.1M in channel mismatches** and designed an AI roadmap projecting **₹34.8M revenue uplift** across three use cases.
 
----
+`#Fintech` `#MachineLearning` `#PredictiveModeling` `#BFSI`
 
-### Restaurant Operations Dashboard &nbsp; `SQL` `Power BI` `DAX`
-Full operational BI dashboard tracking profit margins, customer retention, peak service hours, and inventory KPIs. Implemented complex DAX measures and identified underperforming menu items — projected **15% profit improvement** through pricing optimization.
-> `#BusinessIntelligence` `#DAX` `#KPIReporting` `#OperationsAnalytics`
+</td>
+<td width="50%" valign="top">
 
----
+### 📈 Job Market Analytics System
+**Python · MySQL · Power BI · Adzuna API**
 
-### WhatsApp Business Automation &nbsp; `n8n` `WhatsApp Business API`
-Automated order management, real-time inventory availability, and customer communication for a local restaurant using n8n workflows. Eliminated manual errors and enabled instant customer responses at scale.
-> `#Automation` `#n8n` `#WorkflowAutomation` `#BusinessOperations`
+End-to-end pipeline analyzing **500+ job listings** via REST APIs. Interactive Power BI dashboards with salary trends, skill demand heatmaps, and forecasting filters built from live data.
 
----
+`#ETL` `#PowerBI` `#DataPipeline` `#API`
 
-### Air Quality Analyst &nbsp; `Python` `Jupyter Notebook`
-Data analysis project focused on air quality metrics — EDA, visualization, and insight generation from environmental datasets.
-> `#EDA` `#DataAnalysis` `#EnvironmentalData`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🍽️ Restaurant Operations Dashboard
+**SQL · Power BI · DAX**
 
-## Experience
+Full operational analytics dashboard tracking profit margins, customer retention, peak hours, and inventory KPIs. Identified pricing gaps projecting **15% profit uplift**.
 
-**Data Analytics Intern — Codec Technologies Pvt. Ltd.** &nbsp; `Dec 2025 – Jan 2026`
-- Executed 3 end-to-end analytics reporting projects using Python and SQL on structured business datasets
-- Engineered KPI dashboards for 10+ stakeholders using Matplotlib and Seaborn — reduced reporting time by **20%**
-- Automated preprocessing pipelines via Python scripts — reduced manual effort by **30%**
+`#BusinessIntelligence` `#DAX` `#SQL` `#KPIReporting`
 
-**Subject Matter Expert (Statistics) — Chegg India Pvt. Ltd.** &nbsp; `Jan 2023 – Jun 2025`
-- Solved **500+ advanced statistical problems** (regression, hypothesis testing, probability distributions)
-- Maintained **95%+ solution accuracy** under strict SLA constraints
+</td>
+<td width="50%" valign="top">
 
-**Senior Executive AI/ML & Data Lead — GFG Student Chapter, GGV** &nbsp; `Jan 2023 – Jun 2024`
-- Led **50+ members** across AI/ML, analytics, preprocessing, and deployment projects
-- Organized **10+ workshops** on Python, CNNs, RNNs, deep learning, and data visualization
+### 🤖 WhatsApp Business Automation
+**n8n · WhatsApp Business API**
 
-**Mechanical Engineering Intern — Bhilai Steel Plant** &nbsp; `Jun 2025 – Jul 2025`
-- Monitored rolling process and thermal treatments; used metrology equipment for QC checks
-- Developed recommendations for reducing material waste in production
+Automated order management, real-time inventory checking, and customer communication for a restaurant using n8n workflows. Eliminated manual errors and enabled instant customer responses.
+
+`#Automation` `#n8n` `#WorkflowAutomation` `#API`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Certifications
+## 💼 Experience Timeline
 
-- **IBM Data Analyst Professional Certificate** — IBM / Coursera *(11 courses · Python · SQL · Gen AI · Capstone)*
-- **BS in Data Science & Applications** — IIT Madras
-- **AI for Mechanical Engineers Specialization** — Coursera *(ML for robotics · AI-driven design optimization)*
-- **Digital Product Management Specialization** — Coursera *(5 courses · Agile · Design Thinking · Product Analytics)*
-- **Data Analysis with Tableau** — Coursera
-- **Business Analysis Fundamentals** — Coursera
+```
+Dec 2025 – Jan 2026  ┃  🏢 Data Analytics Intern — Codec Technologies Pvt. Ltd.
+                      ┃  Python · SQL · Matplotlib · Seaborn · ETL · KPI Dashboards
+                      ┃  ↳ 20% faster reporting · 30% less manual effort · 10+ stakeholders
+                      ┃
+Jan 2023 – Jun 2025  ┃  📚 Subject Matter Expert (Statistics) — Chegg India Pvt. Ltd.
+                      ┃  Regression · Hypothesis Testing · Probability Distributions
+                      ┃  ↳ 500+ problems solved · 95%+ accuracy · strict SLA compliance
+                      ┃
+Jan 2023 – Jun 2024  ┃  🎯 Senior Executive AI/ML & Data Lead — GFG Student Chapter, GGV
+                      ┃  CNNs · RNNs · Deep Learning · Team Leadership · Workshops
+                      ┃  ↳ Led 50+ members · Organized 10+ technical workshops
+                      ┃
+Jun 2025 – Jul 2025  ┃  🏭 Mechanical Engineering Intern — Bhilai Steel Plant
+                      ┃  Quality Control · Metrology · Process Monitoring
+                      ┃  ↳ Rolling process monitoring · Material waste reduction proposals
+```
 
 ---
 
-## GitHub Stats
+## 📜 Certifications
+
+| | Certification | Issuer | Highlights |
+|---|---|---|---|
+| 🏅 | IBM Data Analyst Professional Certificate | IBM / Coursera | 11 courses · Python · SQL · Gen AI · Capstone |
+| 🎓 | BS in Data Science & Applications | IIT Madras | Undergraduate DS program |
+| 🤖 | AI for Mechanical Engineers Specialization | Coursera | ML for robotics · AI-driven design optimization |
+| 📊 | Data Analysis with Tableau | Coursera | EDA · Visualization · Descriptive Statistics |
+| 💼 | Digital Product Management Specialization | Coursera | 5 courses · Agile · Design Thinking · Product Analytics |
+| 📋 | Business Analysis Fundamentals | Coursera | BA concepts · Stakeholder analysis |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasudKhan45&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=MasudKhan45&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MasudKhan45&theme=tokyonight&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=MasudKhan45&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasudKhan45&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasudKhan45&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 ---
 
-## Connect
+## 🌐 Connect with Me
 
 <div align="center">
 
